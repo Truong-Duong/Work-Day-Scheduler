@@ -47,6 +47,8 @@ textarea {
 
 .description {
     white-space: pre-wrap;
+    background-color: green;
+    font-size: 25px;
 }
 
 .time-block {
@@ -64,6 +66,8 @@ textarea {
     background-color: #ffffff;
     color: #000000;
     border-top: 1px dashed #000000;
+    float: center;
+    padding-top: 25px;
 }
 
 .past {
