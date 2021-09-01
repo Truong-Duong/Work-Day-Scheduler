@@ -52,6 +52,7 @@ Truong Duong - https://github.com/Truong-Duong
 
 ## Results
 ![](./img/1.png)
+![](./img/2.png)
 
 ## Questions
 You can get in touch with me through:
